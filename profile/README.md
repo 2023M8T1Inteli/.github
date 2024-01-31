@@ -13,19 +13,19 @@ Tapete sensorial para estimular pessoas com leves desordens neurológicas e apoi
 ## 💻 Desenvolvimento de uma IDE para sistema embarcado: 
 
 - Grupo 1 
-  - Link do repositório: https://github.com/2023M8T1Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo1
 
 - Grupo 2 
-  - Link do repositório: https://github.com/2023M8T1Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo2
 
 - Grupo 3 
-  - Link do repositório: https://github.com/2023M8T1Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo3
 
 - Grupo 4 
-  - Link do repositório: https://github.com/2023M8T1Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo4
 
 - Grupo 5 
-  - Link do repositório: https://github.com/2023M8T1Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo5
 
 
 
